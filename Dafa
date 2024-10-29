@@ -19,3 +19,12 @@ results ‹- matrixa matrixa
 
 # Divide the matrices
 result4 <- matrix1 / matrix2
+
+# Print results
+Print("The result of Addition of is:")
+Print(Result1)
+Print("The result of Addition of is:")
+Print(Result2)
+Print("The result of Addition of is:")
+Print(Result3)
+Print("The result of Addition of is:")
